@@ -8,12 +8,14 @@ IP-Tracker is used to track an ip address. IP-Tracker is developed for Termux an
 "What is My IP" and "IP Lookup" are frequently searched terms on the internet. Our tracker will not only show you what your Internet Protocol Address is, but will also give you information about the location of your own IP and other related information regarding your publicly available IP.
 
 <p align="center">
-<img src="SSK/SK.png">  </br>
+<img src="Pic/SK.png">  </br>
 </p>
 <p align="center">
-<img src="SSK/ssk.png">  </br>
+<img src="Pic/ssk.png">  </br>
 </p>
-
+<p align="center">
+<img src="Pic/grey.png" </br>
+</p> 
 ## Features
 - Country
 - Region
@@ -32,7 +34,6 @@ Installation on Gnu / Linux OS. </br>
 
 On terminal </br>
 
-<img src="SSK/grey.png"> <br/> <br/> <br/>
 
 ```diff
  sudo su 
