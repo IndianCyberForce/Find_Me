@@ -38,7 +38,7 @@ On terminal </br>
 
 
 ```diff
-https://github.com/SanatNayak/Find_Me
+git clone https://github.com/SanatNayak/Find_Me
 ```
 
 ```diff
