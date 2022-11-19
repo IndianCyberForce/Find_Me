@@ -53,6 +53,6 @@ def Me():
             print(Fore.YELLOW+"Author: Mr.Grey_Hacker")
             exit()                
         else:
-            print(Fore.RED+"Enter Right Option   [Invalid Option!!!]")
+            print(Fore.RED+"\nEnter Right Option   [Invalid Option!!!]")
             Me()
 Find()
