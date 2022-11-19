@@ -38,15 +38,15 @@ On terminal </br>
 
 
 ```diff
- sudo su 
-```
-
-```diff
-git clone https://github.com/SanatNayak/Find_Me
+https://github.com/SanatNayak/Find_Me
 ```
 
 ```diff
 cd Find_Me
+```
+
+```diff
+pip3 install -r requirements
 ```
 
 ```diff
