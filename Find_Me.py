@@ -2,7 +2,6 @@ import requests
 import os
 from time import sleep
 from colorama import Fore
-from tabulate import tabulate
 #Author Mr.Grey_Hacker 
 os.system('clear')
 banner = """
