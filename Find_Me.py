@@ -48,7 +48,7 @@ def Me():
             print(Fore.LIGHTGREEN_EX+"Exiting")
             sleep(1)
             print(Fore.RED+banner)
-            print(Fore.CYAN+"Thank's For Using ICN Tool")
+            print(Fore.CYAN+"Thank's For Using 𝐈𝐍𝐃𝐈𝐀𝐍 𝐂𝐘𝐁𝐄𝐑 𝐅𝐎𝐑𝐂𝐄 Tool")
             print(Fore.YELLOW+"Author: Mr.Grey_Hacker")
             exit()                
         else:
