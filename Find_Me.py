@@ -17,7 +17,7 @@ banner = """
 print(Fore.CYAN+banner)
 print(Fore.BLUE+"Author:Mr.Grey_Hacker",Fore.LIGHTYELLOW_EX+"                                          Version:1.7")                                                                           
 print(Fore.GREEN+"Facebook Page:https://www.facebook.com/mrgreyhacker")
-print(Fore.GREEN+"Telegram Channel:https://t.me/INDIAN_CYBER_NINJA\n")                                                                            
+print(Fore.GREEN+"Telegram Channel:https://t.me/INDIAN_CYBER_FORCE\n")                                                                            
 
 def Find():
     while True:
