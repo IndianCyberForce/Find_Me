@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Indian+Cyber+Force;Develop+By+Mr.Grey_Hacker)](https://git.io/typing-svg)
 # Find Me
 Track any ip address with Find Me. Find Me is developed for Linux and Termux. you can retrieve any ip address information using Find Me.
-<h1 align="center"> Find Me </h1>
- 
  # What is Find Me?
 Find Me is used to track an ip address. For Find Me is developed for Termux and Linux based systems. you can easily retrieve ip address information using Find Me. Find Me use ip-api to track ip address.
  IP tracking is the technology behind our website that will give you an easy way to lookup, find, track and trace any publicly accessible IP location in the world.
